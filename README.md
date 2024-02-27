@@ -1,1 +1,1 @@
-# practiceapps
+# Generative AI
